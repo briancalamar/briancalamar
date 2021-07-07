@@ -1,18 +1,39 @@
-### Hi there 👋
-<img src="https://raw.githubusercontent.com/briancalamar/briancalamar/main/Santaran%20Brian.gif" width="100%" height="300px" />
+### Hola! Soy brian 👋
+<img src="gif/presentation.gif" />
 
+&nbsp;&nbsp;
 
-<!--
-**briancalamar/briancalamar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2 align="center">
+🚀 Lenguajes y herramientas
+</h2>
+<img src="gif/tecnologias.gif" />
 
-Here are some ideas to get you started:
+&nbsp;&nbsp;
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2 align="center">
+✈ Sobre mi
+</h2>
+
+```js
+const aboutMe = {
+    description: "Hola! Soy Brian, desarrollador Full Stack, actualmente estoy en busqueda de nuevos desafios y experiencias que me permitan explotar mi conocimientos y adquirir nuevos."
+    otherTech: {
+        inProgres: true,
+        technologies: ["React-Native", "Typescript", "Firebase"]
+    },
+    contact: {
+      LinkedIn: "brian-santaran-dev",
+      GitHub: "briancalamar",
+      email: "briansantarandev@gmail.com",
+    }
+}
+```
+&nbsp;&nbsp;
+
+## 🐕 Dogs app
+<p>
+  <a><img src="img/Captura de pantalla de 2021-07-07 03-06-55.png"></a>
+  <a><img src="img/Captura de pantalla de 2021-07-07 03-13-57.png"></a>
+  <a><img src="img/Captura de pantalla de 2021-07-07 03-21-23.png"></a>
+</p>
+
