@@ -15,8 +15,7 @@
 </h2>
 
 ```js
-const aboutMe = {
-    description: "Hola! Soy Brian, desarrollador Full Stack, actualmente estoy en busqueda de nuevos desafios y experiencias que me permitan explotar mi conocimientos y adquirir nuevos."
+const info = {
     otherTech: {
         inProgres: true,
         technologies: ["React-Native", "Typescript", "Firebase"]
